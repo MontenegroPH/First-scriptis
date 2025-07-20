@@ -1,2 +1,3 @@
-a = 'ola mundo' 
-print: a
+print ('ola, mundo')
+
+
